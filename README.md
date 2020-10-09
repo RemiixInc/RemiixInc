@@ -4,11 +4,11 @@
 
 *Just another high-schooler who likes to code (and is very bad at it).*
 
-**Website** » (remiix.ml)[https://remiix.ml]
+**Website** » [remiix.ml](https://remiix.ml)
 
-**Discord Bot** » (plexbot.ml)[https://plexbot.ml]
+**Discord Bot** » [plexbot.ml](https://plexbot.ml)
 
-**MC Server** » (affinityx.ml)[https://affinityx.ml]
+**MC Server** » [affinityx.ml](https://affinityx.ml)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
