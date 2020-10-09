@@ -12,6 +12,6 @@
 **MC Server** » [affinityx.ml](https://affinityx.ml)
 
 # Stats
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)]()
 
-[![](https://github-readme-stats.vercel.app/api?username=RemiixInc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=RemiixInc&theme=dark)]()
