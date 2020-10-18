@@ -1,7 +1,7 @@
 ![Hi! I'm Remiix](header.png)
 
 # About
-![](https://img.shields.io/badge/OS-MacOS%2011-blue) ![](https://img.shields.io/badge/Languages-JavaScript%20%2B%20HTML%2FCSS-blue) ![](https://img.shields.io/badge/Editor-VSC-blue) ![](https://img.shields.io/badge/Hosting-Glitch-blue)
+![](https://img.shields.io/badge/OS-MacOS%2011-blue) ![](https://img.shields.io/badge/Languages-JavaScript%20%2B%20HTML%2FCSS-blue) ![](https://img.shields.io/badge/Editor-Atom%20+%20CotEditor-blue) ![](https://img.shields.io/badge/Hosting-Glitch-blue)
 
 *Just another high-schooler who likes to code (and is very bad at it).*
 
