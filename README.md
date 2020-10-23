@@ -3,7 +3,7 @@
 # About
 ![](https://img.shields.io/badge/OS-MacOS%2011%20+%20Windows%2010-blue) ![](https://img.shields.io/badge/Languages-JavaScript%20%2B%20HTML%2FCSS-blue) ![](https://img.shields.io/badge/Editor-Atom-blue) ![](https://img.shields.io/badge/Browser-Chrome-blue) ![](https://img.shields.io/badge/Hosting-Glitch-blue)
 
-*Just another high-schooler who likes to code (and is very bad at it).*
+*Idk i just make stuff sometimes.*
 
 **Website** » [remiix.ml](https://remiix.ml)
 
