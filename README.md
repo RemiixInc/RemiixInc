@@ -9,7 +9,7 @@
 
 **Discord Bot** » [plexbot.ml](https://plexbot.ml)
 
-**Minecraft Server** » [affinityx.net](https://affinityx.net)
+**Minecraft Server** » [affinityx.net](https://affinityx.net) ![](https://img.shields.io/badge/-beta-red)
 
 # Stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)]()
