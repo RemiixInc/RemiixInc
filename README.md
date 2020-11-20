@@ -15,6 +15,7 @@
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-javascript-48.png" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-nodejs-48.png" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png" align="left" width="26px">
+<img src="https://coteditor.com/img/appicon/128@2x.png" align="left" width="26px">
 <img src="https://cdn.discordapp.com/emojis/692384394509287434.png" align="left" width="26px">
 <br>
 
