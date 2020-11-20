@@ -1,9 +1,7 @@
 ![Hi! I'm Remiix](header.png)
 
-# About
-![](https://img.shields.io/badge/OS-MacOS%2011%20+%20Windows%2010-blue) ![](https://img.shields.io/badge/Languages-JavaScript%20%2B%20HTML%2FCSS-blue) ![](https://img.shields.io/badge/Editor-Atom-blue) ![](https://img.shields.io/badge/Browser-Chrome-blue) ![](https://img.shields.io/badge/Hosting-Glitch-blue)
-
-*Idk i just make stuff sometimes.*
+## About
+*Idk I just make stuff sometimes.*
 
 **Website** » [remiix.ml](https://remiix.ml)
 
@@ -11,7 +9,14 @@
 
 **Minecraft Server** » [affinityx.net](https://affinityx.net) ![](https://img.shields.io/badge/-beta-red)
 
-# Stats
+## Things I Use
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-javascript-48.png" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-nodejs-48.png" align="left" width="26px">
+<img src="https://cdn.discordapp.com/emojis/692384394509287434.png?v=1" align="left" width="26px">
+
+## Stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)]()
 
 [![](https://github-readme-stats.vercel.app/api?username=RemiixInc&theme=dark)]()
