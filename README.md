@@ -7,6 +7,8 @@
 
 **Discord Bot** » [plexbot.ml](https://plexbot.ml)
 
+**Other Discord Bot** » [pam.js.org](https://pam.js.org)
+
 **Minecraft Server** » [affinityx.net](https://affinityx.net) ![](https://img.shields.io/badge/-beta-red)
 
 ## Things I Use
