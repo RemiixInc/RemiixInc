@@ -1,7 +1,7 @@
 ![Hi! I'm Remiix](header.png)
 
 ## About
-*Idk I just make stuff sometimes.*
+*I make stuff sometimes.*
 
 **Website** » [remiix.ml](https://remiix.ml)
 
