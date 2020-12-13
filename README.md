@@ -5,7 +5,7 @@
 
 **Website** » [remiix.ml](https://remiix.ml)
 
-**Discord Bot** » [plexbot.ml](https://plexbot.ml)
+~~**Discord Bot** » [plexbot.ml](https://plexbot.ml)~~
 
 **Other Discord Bot** » [pam.js.org](https://pam.js.org)
 
