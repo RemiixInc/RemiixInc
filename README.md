@@ -23,16 +23,10 @@
 <img src="https://camo.githubusercontent.com/ecd26da2781fab762519a48fc3368b15cead42a41f1de1df726a0e7becd9d725/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" align="left" width="26px">
 <br>
 
+## Activity
+<!--START_SECTION:activity-->
+
 ## Stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)]()
 
 [![](https://github-readme-stats.vercel.app/api?username=RemiixInc&theme=dark)]()
-
-## Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/RemiixInc/url-shortener-template/pull/5) in [RemiixInc/url-shortener-template](https://github.com/RemiixInc/url-shortener-template)
-2. 💪 Opened PR [#5](https://github.com/RemiixInc/url-shortener-template/pull/5) in [RemiixInc/url-shortener-template](https://github.com/RemiixInc/url-shortener-template)
-3. 🗣 Commented on [#1](https://github.com/RemiixInc/snowsgiving/issues/1) in [RemiixInc/snowsgiving](https://github.com/RemiixInc/snowsgiving)
-4. 🎉 Merged PR [#1](https://github.com/RemiixInc/snowsgiving/pull/1) in [RemiixInc/snowsgiving](https://github.com/RemiixInc/snowsgiving)
-5. 💪 Opened PR [#5147](https://github.com/js-org/js.org/pull/5147) in [js-org/js.org](https://github.com/js-org/js.org)
-<!--END_SECTION:activity-->
