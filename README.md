@@ -27,3 +27,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiixInc&show_icons=true&theme=dark)]()
 
 [![](https://github-readme-stats.vercel.app/api?username=RemiixInc&theme=dark)]()
+
+## Activity
+<!--START_SECTION:activity-->
