@@ -17,6 +17,10 @@
 <!--<img src="https://camo.githubusercontent.com/ecd26da2781fab762519a48fc3368b15cead42a41f1de1df726a0e7becd9d725/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" align="left" width="26px">-->
 <br>
 
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
