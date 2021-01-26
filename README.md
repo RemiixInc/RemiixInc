@@ -24,11 +24,11 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/RemiixInc/url-shortener-template/pull/6) in [RemiixInc/url-shortener-template](https://github.com/RemiixInc/url-shortener-template)
-2. ❌ Closed PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
-3. 💪 Opened PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
-4. ❗️ Closed issue [#1](https://github.com/RemiixInc/lacompagniedesombres-ubersicht/issues/1) in [RemiixInc/lacompagniedesombres-ubersicht](https://github.com/RemiixInc/lacompagniedesombres-ubersicht)
-5. 🗣 Commented on [#1](https://github.com/RemiixInc/lacompagniedesombres-ubersicht/issues/1) in [RemiixInc/lacompagniedesombres-ubersicht](https://github.com/RemiixInc/lacompagniedesombres-ubersicht)
+1. 🎉 Merged PR [#1](https://github.com/RemiixInc/url-shortener/pull/1) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
+2. 💪 Opened PR [#1](https://github.com/RemiixInc/url-shortener/pull/1) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
+3. 💪 Opened PR [#6](https://github.com/RemiixInc/url-shortener-template/pull/6) in [RemiixInc/url-shortener-template](https://github.com/RemiixInc/url-shortener-template)
+4. ❌ Closed PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
+5. 💪 Opened PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
 <!--END_SECTION:activity-->
 
 ## Stats
