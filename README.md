@@ -24,11 +24,11 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RemiixInc/url-shortener/pull/1) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
-2. 💪 Opened PR [#1](https://github.com/RemiixInc/url-shortener/pull/1) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
-3. 💪 Opened PR [#6](https://github.com/RemiixInc/url-shortener-template/pull/6) in [RemiixInc/url-shortener-template](https://github.com/RemiixInc/url-shortener-template)
-4. ❌ Closed PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
-5. 💪 Opened PR [#1](https://github.com/RemiixInc/meta-grabber/pull/1) in [RemiixInc/meta-grabber](https://github.com/RemiixInc/meta-grabber)
+1. 🗣 Commented on [#2](https://github.com/RemiixInc/url-shortener/issues/2) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
+2. 🎉 Merged PR [#2](https://github.com/RemiixInc/url-shortener/pull/2) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
+3. 🎉 Merged PR [#1](https://github.com/RemiixInc/url-shortener/pull/1) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
+4. 💪 Opened PR [#1](https://github.com/RemiixInc/url-shortener/pull/1) in [RemiixInc/url-shortener](https://github.com/RemiixInc/url-shortener)
+5. 💪 Opened PR [#6](https://github.com/RemiixInc/url-shortener-template/pull/6) in [RemiixInc/url-shortener-template](https://github.com/RemiixInc/url-shortener-template)
 <!--END_SECTION:activity-->
 
 ## Stats
