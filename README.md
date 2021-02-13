@@ -1,7 +1,4 @@
-![Hi! I'm Remiix](header.png)
-
-## About
-*I make stuff sometimes.*
+![Hi, I'm Remiix](header.png)
 
 ## Cool Projects
 **🔗 Temp URL Shortener** » [srty.ml](https://srty.ml)
