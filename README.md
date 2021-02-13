@@ -3,7 +3,18 @@
 ## About
 *I make stuff sometimes.*
 
-**Website** » [remiix.ml](https://remiix.ml)
+## Cool Projects
+**🔗 Temp URL Shortener** » [srty.ml](https://srty.ml)
+
+**🖼️ Image Gallery** » [galleri.glitch.me](https://galleri.glitch.me)
+
+**🤬 Profanity Killer Bot** » [profanitykiller.ml](https://profanitykiller.ml)
+
+**⛅ Weather App** » [whyther.glitch.me](https://whyther.glitch.me)
+
+**📑 Citer Bookmarklet** » [citey.remiix.ml](https://citey.remiix.ml)
+
+**🔁 Random Stuff** » [citey.remiix.ml](https://randompage.glitch.me)
 
 ## Things I Use
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png" align="left" width="26px">
