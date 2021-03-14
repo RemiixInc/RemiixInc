@@ -20,11 +20,11 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
-2. 💪 Opened PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
-3. 🎉 Merged PR [#7](https://github.com/RemiixInc/website/pull/7) in [RemiixInc/website](https://github.com/RemiixInc/website)
-4. 💪 Opened PR [#7](https://github.com/RemiixInc/website/pull/7) in [RemiixInc/website](https://github.com/RemiixInc/website)
-5. ❗️ Opened issue [#278](https://github.com/kevquirk/512kb.club/issues/278) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+1. 🎉 Merged PR [#9](https://github.com/RemiixInc/website/pull/9) in [RemiixInc/website](https://github.com/RemiixInc/website)
+2. 💪 Opened PR [#9](https://github.com/RemiixInc/website/pull/9) in [RemiixInc/website](https://github.com/RemiixInc/website)
+3. 🎉 Merged PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
+4. 💪 Opened PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
+5. 🎉 Merged PR [#7](https://github.com/RemiixInc/website/pull/7) in [RemiixInc/website](https://github.com/RemiixInc/website)
 <!--END_SECTION:activity-->
 
 ## Stats
