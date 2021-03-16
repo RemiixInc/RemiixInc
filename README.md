@@ -20,11 +20,11 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/RemiixInc/website/pull/9) in [RemiixInc/website](https://github.com/RemiixInc/website)
-2. 💪 Opened PR [#9](https://github.com/RemiixInc/website/pull/9) in [RemiixInc/website](https://github.com/RemiixInc/website)
-3. 🎉 Merged PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
-4. 💪 Opened PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
-5. 🎉 Merged PR [#7](https://github.com/RemiixInc/website/pull/7) in [RemiixInc/website](https://github.com/RemiixInc/website)
+1. 🎉 Merged PR [#10](https://github.com/RemiixInc/website/pull/10) in [RemiixInc/website](https://github.com/RemiixInc/website)
+2. 💪 Opened PR [#10](https://github.com/RemiixInc/website/pull/10) in [RemiixInc/website](https://github.com/RemiixInc/website)
+3. 🎉 Merged PR [#9](https://github.com/RemiixInc/website/pull/9) in [RemiixInc/website](https://github.com/RemiixInc/website)
+4. 💪 Opened PR [#9](https://github.com/RemiixInc/website/pull/9) in [RemiixInc/website](https://github.com/RemiixInc/website)
+5. 🎉 Merged PR [#8](https://github.com/RemiixInc/website/pull/8) in [RemiixInc/website](https://github.com/RemiixInc/website)
 <!--END_SECTION:activity-->
 
 ## Stats
