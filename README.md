@@ -1,5 +1,5 @@
 # hi, i'm remiix!
-an amateur **\~fullstack\~** web developer. you can contact me on discord at **Remiix#2538**. check out [my website](https://remiixinc.ml) for more info.
+an amateur **\~fullstack\~** web developer. you can contact me on discord at **kieran#2538**. check out [my website](https://remiixinc.ml) for more info.
 
 [![](https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=status:&query=data.discord_status&url=https://api.lanyard.rest/v1/users/693287782851936258&style=flat)]() [![](https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=activity:&query=data.activities[0].state&url=https://api.lanyard.rest/v1/users/693287782851936258&style=flat)]()
 
