@@ -12,7 +12,4 @@ an amateur **\~fullstack\~** web developer. you can contact me on discord at **k
 <br>
 
 ### blog posts
-<!-- BLOG-POST-LIST:START -->
-- [URL Shortener Template](https://dev.to/remiix/url-shortener-template-2om4)
-- [Getting website meta tags with node.js!](https://dev.to/remiix/getting-website-meta-tags-with-node-js-1li5)
-<!-- BLOG-POST-LIST:END -->
+- no
