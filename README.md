@@ -3,10 +3,6 @@
 
 ### links
 check out [my new website](https://kieran.rmxgrp.dev) for my projects!<br />
-also check out [rmxgrp](https://rmxgrp.dev) where i code stuff with [@littlegrapeguy](https://github.com/littlegrapeguy).
-
-### discord
-join the [rmxgrp server](https://discord.gg/AZQsQBAe9r) to contact me :)
 
 [![](https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=status:&query=data.discord_status&url=https://api.lanyard.rest/v1/users/693287782851936258&style=flat)]() [![](https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=activity:&query=data.activities[0].state&url=https://api.lanyard.rest/v1/users/693287782851936258&style=flat)]()
 
