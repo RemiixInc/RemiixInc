@@ -2,7 +2,10 @@
 14 y/o *\~full stack\~* web developer and professional bug creator
 
 ### links
-check out [my new website](https://kieran.rmxgrp.dev) for my projects!<br />
+check out [my new website](https://kizzles.dev) for my projects!<br />
+
+### contact
+you can contact me on discord [@kieran#9553](https://discord.com/users/693287782851936258)
 
 [![](https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=status:&query=data.discord_status&url=https://api.lanyard.rest/v1/users/693287782851936258&style=flat)]() [![](https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=activity:&query=data.activities[0].state&url=https://api.lanyard.rest/v1/users/693287782851936258&style=flat)]()
 
