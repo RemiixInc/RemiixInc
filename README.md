@@ -2,7 +2,7 @@
 14 y/o *\~full stack\~* web developer and professional bug creator
 
 ### links
-check out [my new website](https://kizzles.dev) for my projects!<br />
+check out [my website](https://kizzles.dev) for my projects!<br />
 
 ### contact
 you can contact me on discord [@kieran#9553](https://discord.com/users/693287782851936258)
