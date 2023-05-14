@@ -1,5 +1,5 @@
 # hi, i'm kieran!
-14 y/o *\~full stack\~* web developer and professional bug creator
+*\~full stack\~* web developer and professional bug creator
 
 ### links
 check out [my website](https://kizzles.dev) for my projects!<br />
